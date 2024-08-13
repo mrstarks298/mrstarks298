@@ -1,5 +1,31 @@
-<h1 align="center">Hey, I'm Saurabh Agrahari 👋 Welcome to my GitHub Profile!</h1>
+<h1 align="center">
+  <img src="https://img.icons8.com/color/96/000000/coding.png" alt="coding illustration"/><br>
+  <span id="typed-text"></span>
+  <span id="cursor">|</span>
+</h1>
 <p align="center">A passionate CS undergrad.</p>
+
+<script>
+  // Dynamic typing effect
+  const typedText = "Hey, I'm Saurabh Agrahari 👋 Welcome to my GitHub Profile!";
+  const typingSpeed = 100; // milliseconds
+  let i = 0;
+  
+  function typeWriter() {
+    if (i < typedText.length) {
+      document.getElementById("typed-text").innerHTML += typedText.charAt(i);
+      i++;
+      setTimeout(typeWriter, typingSpeed);
+    } else {
+      document.getElementById("cursor").style.display = 'none'; // Hide the cursor once typing is done
+    }
+  }
+  
+  document.addEventListener("DOMContentLoaded", function() {
+    typeWriter();
+  });
+</script>
+
 
 <p align="center">
   <img src="https://img.icons8.com/color/96/000000/coding.png" alt="coding illustration" />
