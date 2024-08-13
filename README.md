@@ -1,4 +1,6 @@
-# 👋 Hi, I’m @Saurabh Agrahari
+# 👋 Hi there! I'm Saurabh Agrahari.
+
+Welcome to my GitHub profile! 
 
 ## 👀 I’m interested in ...
 - AI/ML
@@ -21,15 +23,13 @@
 - He/Him
 
 ## ⚡ Fun fact: ...
--  I love exploring new tech and applying it to real-world problems!
+- I love exploring new tech and applying it to real-world problems!
 
 ---
 
 ## Connect with me:
 <p align="left">
- 
-  <a href="https://www.linkedin.com/in/yourusername/" target="www.linkedin.com/in/saurabh-agrahari1234"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
-  
+  <a href="https://www.linkedin.com/in/saurabh-agrahari1234" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
 
 ## Languages and Tools:
@@ -51,6 +51,3 @@
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/> </a>
   <a href="https://scikit-learn.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="Scikit-Learn"/> </a>
 </p>
-
-
-
