@@ -26,7 +26,6 @@
   });
 </script>
 
-
 <p align="center">
   <img src="https://img.icons8.com/color/96/000000/coding.png" alt="coding illustration" />
 </p>
@@ -62,7 +61,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/saurabh-agrahari1234" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
-
 
 ## Languages and Tools:
 <p align="left"> 
