@@ -1,6 +1,11 @@
-# 👋 Hi there! I'm Saurabh Agrahari.
+<h1 align="center">Hey, I'm Saurabh Agrahari 👋 Welcome to my GitHub Profile!</h1>
+<p align="center">A passionate CS undergrad.</p>
 
-Welcome to my GitHub profile! 
+<p align="center">
+  <img src="https://img.icons8.com/color/96/000000/coding.png" alt="coding illustration" />
+</p>
+
+---
 
 ## 👀 I’m interested in ...
 - AI/ML
@@ -28,9 +33,10 @@ Welcome to my GitHub profile!
 ---
 
 ## Connect with me:
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/saurabh-agrahari1234" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
+
 
 ## Languages and Tools:
 <p align="left"> 
