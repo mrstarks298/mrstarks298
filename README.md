@@ -1,58 +1,59 @@
-<h1 align="center">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Saurabh+Agrahari+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</h1>
+<h1 align="center">  
+  <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Saurabh+Agrahari+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />  
+</h1>  
 
-<p align="center">A passionate CS undergrad.</p>
+<p align="center">A passionate CS undergrad.</p>  
 
----
+---  
 
-## 👀 I'm interested in ...
-- AI/ML
-- Web Development
+## 👀 I'm interested in ...  
+- AI/ML  
+- Web Development  
 
-## 🌱 I'm currently learning ...
-- Machine Learning 
-- Data Science
+## 🌱 I'm currently learning ...  
+- Machine Learning   
+- Data Science  
 
-## 💞️ I'm looking to collaborate on ...
-- AI/ML projects
-- Open-source contributions
-- Web Development projects
+## 💞️ I'm looking to collaborate on ...  
+- AI/ML projects  
+- Open-source contributions  
+- Web Development projects  
 
-## 📫 How to reach me ...
-- Personal Email: [saurabhagrahariiitjee2022@gmail.com](mailto:saurabhagrahariiitjee2022@gmail.com)
+## 📫 How to reach me ...  
+- Personal Email: [saurabhagrahariiitjee2022@gmail.com](mailto:saurabhagrahariiitjee2022@gmail.com)  
 
+## 😄 Pronouns: ...  
+- He/Him  
 
-## 😄 Pronouns: ...
-- He/Him
+## ⚡ Fun fact: ...  
+- I love exploring new tech and applying it to real-world problems!  
 
-## ⚡ Fun fact: ...
-- I love exploring new tech and applying it to real-world problems!
+---  
 
----
+## Connect with me:  
+<p align="center">  
+  <a href="https://www.linkedin.com/in/saurabh-agrahari1234" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn Badge" /></a>  
+  <a href="https://twitter.com/saurabh_agrahari" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="35" alt="Twitter Badge" /></a>  
+  <a href="https://github.com/SaurabhAgrahari" target="_blank"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="35" alt="GitHub Badge" /></a>  
+  <a href="https://www.instagram.com/saurabh_agrahari/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram Badge" /></a>  
+</p>  
 
-## Connect with me:
-<p align="center">
-  <a href="https://www.linkedin.com/in/saurabh-agrahari1234" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
-</p>
-
-## Languages and Tools:
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/> </a>
-  <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/> </a>
-  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL"/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas"/> </a>
-  <a href="https://numpy.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy"/> </a>
-  <a href="https://www.nltk.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nltk.png" alt="NLTK"/> </a>
-  <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/beautifulsoup.png" alt="BeautifulSoup"/> </a>
-  <a href="https://plotly.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/plotly.png" alt="Plotly"/> </a>
-  <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/seaborn.png" alt="Seaborn"/> </a>
-  <a href="https://matplotlib.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/matplotlib.png" alt="Matplotlib"/> </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flask.png" alt="Flask"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-Learn"/> </a>
+## Languages and Tools:  
+<p align="left">   
+  <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/> </a>  
+  <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/> </a>  
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/> </a>   
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/> </a>   
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/> </a>  
+  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL"/> </a>   
+  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas"/> </a>  
+  <a href="https://numpy.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy"/> </a>  
+  <a href="https://www.nltk.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nltk.png" alt="NLTK"/> </a>  
+  <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/beautifulsoup.png" alt="BeautifulSoup"/> </a>  
+  <a href="https://plotly.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/plotly.png" alt="Plotly"/> </a>  
+  <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/seaborn.png" alt="Seaborn"/> </a>  
+  <a href="https://matplotlib.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/matplotlib.png" alt="Matplotlib"/> </a>  
+  <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flask.png" alt="Flask"/> </a>  
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/> </a>  
+  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-Learn"/> </a>  
 </p>
