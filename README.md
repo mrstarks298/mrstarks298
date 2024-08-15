@@ -1,5 +1,4 @@
 <h1 align="center">
-  
   <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Saurabh+Agrahari+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </h1>
 
@@ -23,7 +22,6 @@
 ## 📫 How to reach me ...
 - Personal Email: [saurabhagrahariiitjee2022@gmail.com](mailto:saurabhagrahariiitjee2022@gmail.com)
 
-
 ## 😄 Pronouns: ...
 - He/Him
 
@@ -36,8 +34,11 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/saurabh-agrahari1234" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
+
 ## GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=mrstarks298&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mrstarks298&theme=onedark" alt="GitHub Trophies" />
+</p>
 
 ## Languages and Tools:
 <p align="left"> 
