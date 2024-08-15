@@ -36,7 +36,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/saurabh-agrahari1234" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=mrstarks298)](https://github.com/ryo-ma/github-profile-trophy)
+## GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=mrstarks298&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Languages and Tools:
 <p align="left"> 
