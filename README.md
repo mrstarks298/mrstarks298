@@ -54,5 +54,5 @@
   <a href="https://matplotlib.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/matplotlib.png" alt="Matplotlib"/> </a>
   <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flask.png" alt="Flask"/> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="Scikit-Learn"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-Learn"/> </a>
 </p>
