@@ -59,8 +59,9 @@
 
 ## 🌱 GitHub Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mrstarks298&theme=github-dark" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrstarks298&theme=github-dark&area=true" alt="GitHub Activity Graph" />
 </p>
+
 
 ## 👁‍🗨 Profile Views
 <p align="center">
