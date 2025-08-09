@@ -23,14 +23,9 @@
 - ⚡ **Fun fact:** I love exploring new tech and applying it to real-world problems!
 - 😄 **Pronouns:** He/Him
 
-## My Projects
+## 🚀 Featured Projects
 
-| Project Name | Description | Tech Stack |
-|--------------|-------------|------------|
-| AI Chat Bot | Intelligent conversational AI system | Python, NLP, TensorFlow |
-| Web Scraping Tool | Data extraction and analysis platform | Python, BeautifulSoup, Pandas |
-| Portfolio Website | Personal portfolio with modern design | HTML, CSS, JavaScript |
-| *More projects coming soon...* | Currently working on exciting AI projects | - |
+*Coming Soon - Currently working on exciting AI/ML projects!*
 
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -110,7 +105,7 @@
 
 </div>
 
-## 🔥 GitHub Streak & LeetCode Progress
+## 🔥 GitHub Streak & Coding Profile
 
 <div align="center">
 
@@ -119,7 +114,13 @@
 </div>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/mrstarks298?theme=dark&font=Nunito&ext=heatmap" />
+  <a href="https://codolio.com/profile/maxcoder143" target="_blank">
+    <img src="https://img.shields.io/badge/Codolio-maxcoder143-FF6B6B?style=for-the-badge&logo=code&logoColor=white" alt="Codolio Profile" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>🚀 Check out my coding journey on Codolio: <a href="https://codolio.com/profile/maxcoder143">maxcoder143</a></strong>
 </p>
 
 <div align="center" style="margin-top: 10px; display: flex; flex-wrap: wrap; justify-content: center;">
@@ -142,18 +143,10 @@
 - 💼 Secure internships in AI/ML domain
 - 🏆 Participate in AI competitions and hackathons
 
-## 📈 Learning Journey
 
-```text
-AI/ML Development   ████████████████████░   95%
-Python Programming  ██████████████████░░░   90%
-Web Development     ███████████████░░░░░░   75%
-Java Programming    ████████████░░░░░░░░░   65%
-Data Structures     ██████████████░░░░░░░   70%
-```
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+### ✍️ Random AI Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quotes=The%20development%20of%20artificial%20intelligence%20is%20as%20fundamental%20as%20the%20creation%20of%20the%20microprocessor%2C%20the%20personal%20computer%2C%20the%20Internet%2C%20and%20the%20mobile%20phone.%20It%20will%20change%20the%20way%20people%20work%2C%20learn%2C%20travel%2C%20get%20health%20care%2C%20and%20communicate%20with%20each%20other.%20-%20Bill%20Gates;AI%20is%20going%20to%20be%20the%20most%20impactful%20technology%20of%20our%20generation%2C%20and%20we%20want%20everyone%20to%20be%20able%20to%20use%20it.%20-%20Sam%20Altman;The%20question%20of%20whether%20a%20computer%20can%20think%20is%20no%20more%20interesting%20than%20the%20question%20of%20whether%20a%20submarine%20can%20swim.%20-%20Edsger%20W.%20Dijkstra;Machine%20learning%20is%20the%20last%20invention%20that%20humanity%20will%20ever%20need%20to%20make.%20-%20Nick%20Bostrom)
 
 ---
 
