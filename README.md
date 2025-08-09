@@ -105,7 +105,7 @@
 
 </div>
 
-## 🔥 GitHub Streak & Coding Profile
+## 🔥 GitHub Streak & LeetCode Progress
 
 <div align="center">
 
@@ -114,13 +114,7 @@
 </div>
 
 <p align="center">
-  <a href="https://codolio.com/profile/maxcoder143" target="_blank">
-    <img src="https://img.shields.io/badge/Codolio-maxcoder143-FF6B6B?style=for-the-badge&logo=code&logoColor=white" alt="Codolio Profile" />
-  </a>
-</p>
-
-<p align="center">
-  <strong>🚀 Check out my coding journey on Codolio: <a href="https://codolio.com/profile/maxcoder143">maxcoder143</a></strong>
+  <img src="https://leetcard.jacoblin.cool/maxcoder143?theme=dark&font=Nunito&ext=heatmap" />
 </p>
 
 <div align="center" style="margin-top: 10px; display: flex; flex-wrap: wrap; justify-content: center;">
